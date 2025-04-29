@@ -20,6 +20,13 @@
       "tel": "",
       "correo": "ultimo",
       "razon": "Compra de artículo"
+    },
+    {
+      "nombre": "Roberto",
+      "apellidos": "Flores",
+      "tel": "87965457",
+      "correo": "robflores@central.com",
+      "razon": "Compra de artículo"
     }
   ]
 }
